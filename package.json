@@ -1,0 +1,20 @@
+{
+  "name": "wheather_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch style/main.scss style/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolashipov/weather.git"
+  },
+  "author": "tolashipov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolashipov/weather/issues"
+  },
+  "homepage": "https://github.com/tolashipov/wheather#readme"
+}
